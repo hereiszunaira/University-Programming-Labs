@@ -82,8 +82,6 @@ I am learning OOP using C++ and building my programming skills through weekly un
 ## Repository Structure
 
 - `Semester-03/OOP/` — Weekly OOP labs and practice programs
-- `Semester-03/DLD/` — Digital Logic Design material
-- `Semester-03/Other-Subjects/` — Other university coursework
 
 ## Programming Language
 - C++
